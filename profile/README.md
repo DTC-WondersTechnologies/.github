@@ -11,7 +11,7 @@ Building innovative software solutions and empowering businesses through modern 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Organization-DTC-DinoTechnologies-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Organization-DTC-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-Technology-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Open%20Source-Welcome-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Innovation-AI%20%7C%20Software%20%7C%20Cloud-purple?style=for-the-badge">
