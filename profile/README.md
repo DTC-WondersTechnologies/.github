@@ -25,7 +25,7 @@ Building innovative software solutions and empowering businesses through modern 
 
 # 🌍 About DinoTechnology Center Wonders 
 
-**DinoTechnology Center (DTC) - Wonders** is a technology innovation hub focused on building scalable digital solutions, AI-powered systems, and enterprise software.
+**DinoTechnology Center (DTC) - Wonders** is a technology innovation studio focused on building scalable digital solutions, AI-powered systems, and enterprise software.
 
 We aim to deliver **modern, reliable, and secure technology solutions** for businesses, startups, and organizations.
 
