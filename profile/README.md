@@ -3,7 +3,7 @@
 <img src="./dtc_logo2.4.png" width="180"/>
 </p>
 <h1 align="center">
-  DinoTechnology Center (DTC)
+  DinoTechnology Center (DTC) - Wonders
 </h1>
 
 <p align="center">
@@ -19,9 +19,9 @@ Building innovative software solutions and empowering businesses through modern 
 
 ---
 
-# 🌍 About DinoTechnology Center
+# 🌍 About DinoTechnology Center Wonders 
 
-**DinoTechnology Center (DTC)** is a technology innovation hub focused on building scalable digital solutions, AI-powered systems, and enterprise software.
+**DinoTechnology Center (DTC) - Wonders** is a technology innovation hub focused on building scalable digital solutions, AI-powered systems, and enterprise software.
 
 We aim to deliver **modern, reliable, and secure technology solutions** for businesses, startups, and organizations.
 
@@ -132,8 +132,8 @@ You can contribute by:
 
 # 📫 Contact
 
-Website: **Coming Soon**  
-Email: **info@dinotechnologycenter.com**
+Website: **www.dtcwonders.online**  
+Email: **dtc.teamtz@gmail.com**
 
 ---
 
