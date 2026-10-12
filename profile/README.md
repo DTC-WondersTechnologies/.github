@@ -6,6 +6,10 @@
   DinoTechnology Center (DTC) - Wonders
 </h1>
 
+<h2 align="center">
+  We Exist For Wonders
+</h2>
+
 <p align="center">
 Building innovative software solutions and empowering businesses through modern technology.
 </p>
