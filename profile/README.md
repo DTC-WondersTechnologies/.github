@@ -166,9 +166,16 @@ Beyond voice AI, DTC builds software for businesses and organizations:
 
 ---
 
-# 📊 Organization Stats
+# 📊 Featured Repositories
 
-![GitHub Org Stats](https://github-readme-stats.vercel.app/api?username=DinoTechnologyCenter-DTC&show_icons=true)
+<p align="center">
+  <a href="https://github.com/DinoTechnologyCenter-DTC/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinoTechnologyCenter-DTC&repo=REPO_NAME_1&theme=default" />
+  </a>
+  <a href="https://github.com/DinoTechnologyCenter-DTC/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinoTechnologyCenter-DTC&repo=REPO_NAME_2&theme=default" />
+  </a>
+</p>Hub Org Stats](https://github-readme-stats.vercel.app/api?username=DinoTechnologyCenter-DTC&show_icons=true)
 
 ---
 
