@@ -10,7 +10,7 @@
 </h2>
 
 <p align="center">
-Natural Swahili and African-language voice technology for businesses and creators. Built in Tanzania, for Africa.
+Natural Swahili and African-language voice agent technology for businesses and creators. Built in Tanzania, for Africa.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Natural Swahili and African-language voice technology for businesses and creator
 
 # 🌍 About DTC Wonders
 
-**DinoTechnology Center (DTC) - Wonders** is a Tanzanian technology studio building **voice AI for African languages**, starting with **Swahili**.
+**DinoTechnology Center (DTC) - Wonders** is a Tanzanian technology studio building **voice agent AI for African languages**, starting with **Swahili**.
 
 Most AI voices sound translated, with the wrong tone, rhythm and accent. We are building voice tools that sound right to the people who use them: shop owners, creators, radio stations, schools and teams across East Africa.
 
