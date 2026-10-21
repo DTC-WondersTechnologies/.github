@@ -6,7 +6,7 @@
 </h1>
 
 <h2 align="center">
-  We bring Swahili voice AI.
+  We bring Swahili Voice Agent with AI.
 </h2>
 
 <p align="center">
