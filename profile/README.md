@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./dtc_logo2.4.png" width="180"/>
+<img src="./non-ring logo.png" width="180"/>
 </p>
 <h1 align="center">
   DinoTechnology Center (DTC) - Wonders
