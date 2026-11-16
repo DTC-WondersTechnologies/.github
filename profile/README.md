@@ -30,7 +30,7 @@ Natural Swahili and African-language voice agent technology for businesses and c
 
 # 🌍 About DTC Wonders
 
-**DinoTechnology Center (DTC) - Wonders** is a Tanzanian technology studio building **voice agent AI for African languages**, starting with **Swahili**.
+**Dino Trust Center (DTC) - Wonders** is a Tanzanian technology studio building **voice agent AI for African languages**, starting with **Swahili**.
 
 Most AI voices sound translated, with the wrong tone, rhythm and accent. We are building voice tools that sound right to the people who use them: shop owners, creators, radio stations, schools and teams across East Africa.
 
@@ -169,7 +169,7 @@ Beyond voice AI, DTC builds software for businesses and organizations:
 # 📊 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/DinoTechnologyCenter-DTC/REPO_NAME_1">
+  <a href="https://github.com/DTC-WondersTechnologies/MwandishiWeb">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinoTechnologyCenter-DTC&repo=REPO_NAME_1&theme=default" />
   </a>
   <a href="https://github.com/DinoTechnologyCenter-DTC/REPO_NAME_2">
