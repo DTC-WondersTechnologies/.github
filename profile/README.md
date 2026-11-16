@@ -2,7 +2,7 @@
 <img src="./non-ring logo.png" width="180"/>
 </p>
 <h1 align="center">
-  DinoTechnology Center (DTC) - Wonders
+  Dino Trust Center (DTC) - Wonders
 </h1>
 
 <h2 align="center">
